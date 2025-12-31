@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/School_Manage/True/SqlTable/dbo.Students.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|c:\\users\\lenovo\\source\\repos\\school_management_system\\school_management_system\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|solutionrelative:school_management_system\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|c:\\users\\lenovo\\source\\repos\\school_management_system\\school_management_system\\repo\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|solutionrelative:school_management_system\\repo\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|c:\\users\\lenovo\\source\\repos\\school_management_system\\school_management_system\\repo\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|solutionrelative:school_management_system\\repo\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|c:\\users\\lenovo\\source\\repos\\school_management_system\\school_management_system\\dto\\updatestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|solutionrelative:school_management_system\\dto\\updatestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|c:\\users\\lenovo\\source\\repos\\school_management_system\\school_management_system\\dto\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|solutionrelative:school_management_system\\dto\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|c:\\users\\lenovo\\source\\repos\\school_management_system\\school_management_system\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|solutionrelative:school_management_system\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|c:\\users\\lenovo\\source\\repos\\school_management_system\\school_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|solutionrelative:school_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|c:\\users\\lenovo\\source\\repos\\school_management_system\\school_management_system\\dto\\readstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|solutionrelative:school_management_system\\dto\\readstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|c:\\users\\lenovo\\source\\repos\\school_management_system\\school_management_system\\dto\\readteacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|solutionrelative:school_management_system\\dto\\readteacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|c:\\users\\lenovo\\source\\repos\\school_management_system\\school_management_system\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|solutionrelative:school_management_system\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|c:\\users\\lenovo\\source\\repos\\school_management_system\\school_management_system\\dto\\createteacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|solutionrelative:school_management_system\\dto\\createteacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/School_Manage/True/SqlTable/dbo.Teachers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/School_Manage/True/SqlTable/dbo.StudentTeacher.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|c:\\users\\lenovo\\source\\repos\\school_management_system\\school_management_system\\repo\\teacherrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|solutionrelative:school_management_system\\repo\\teacherrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|c:\\users\\lenovo\\source\\repos\\school_management_system\\school_management_system\\repo\\iteacherrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|solutionrelative:school_management_system\\repo\\iteacherrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|c:\\users\\lenovo\\source\\repos\\school_management_system\\school_management_system\\repo\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|solutionrelative:school_management_system\\repo\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|c:\\users\\lenovo\\source\\repos\\school_management_system\\school_management_system\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|solutionrelative:school_management_system\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|c:\\users\\lenovo\\source\\repos\\school_management_system\\school_management_system\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|solutionrelative:school_management_system\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|c:\\users\\lenovo\\source\\repos\\school_management_system\\school_management_system\\dto\\createsubjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|solutionrelative:school_management_system\\dto\\createsubjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|c:\\users\\lenovo\\source\\repos\\school_management_system\\school_management_system\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|solutionrelative:school_management_system\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|c:\\users\\lenovo\\source\\repos\\school_management_system\\school_management_system\\repo\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|solutionrelative:school_management_system\\repo\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|c:\\users\\lenovo\\source\\repos\\school_management_system\\school_management_system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|solutionrelative:school_management_system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|c:\\users\\lenovo\\source\\repos\\school_management_system\\school_management_system\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|solutionrelative:school_management_system\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|c:\\users\\lenovo\\source\\repos\\school_management_system\\school_management_system\\models\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAFE11-48D3-44E4-8516-032310A37B33}|School_Management_System\\School_Management_System.csproj|solutionrelative:school_management_system\\models\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateStudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\DTO\\UpdateStudentDTO.cs",
+              "RelativeDocumentMoniker": "School_Management_System\\DTO\\UpdateStudentDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\DTO\\UpdateStudentDTO.cs",
+              "RelativeToolTip": "School_Management_System\\DTO\\UpdateStudentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:46:28.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "School_Management_System\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "School_Management_System\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAuwHoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:00:26.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "School_Management_System\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "School_Management_System\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T21:58:30.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateStudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\DTO\\CreateStudentDTO.cs",
+              "RelativeDocumentMoniker": "School_Management_System\\DTO\\CreateStudentDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\DTO\\CreateStudentDTO.cs",
+              "RelativeToolTip": "School_Management_System\\DTO\\CreateStudentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T22:50:37.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Students [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/School_Manage/True/SqlTable/dbo.Students.sql",
+              "ToolTip": "dbo.Students [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-30T23:25:15.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\Repo\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "School_Management_System\\Repo\\StudentRepo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\Repo\\StudentRepo.cs",
+              "RelativeToolTip": "School_Management_System\\Repo\\StudentRepo.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T22:54:25.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\Repo\\IStudentRepo.cs",
+              "RelativeDocumentMoniker": "School_Management_System\\Repo\\IStudentRepo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\Repo\\IStudentRepo.cs",
+              "RelativeToolTip": "School_Management_System\\Repo\\IStudentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T22:53:32.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\Program.cs",
+              "RelativeDocumentMoniker": "School_Management_System\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\Program.cs",
+              "RelativeToolTip": "School_Management_System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T21:32:05.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReadStudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\DTO\\ReadStudentDTO.cs",
+              "RelativeDocumentMoniker": "School_Management_System\\DTO\\ReadStudentDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\DTO\\ReadStudentDTO.cs",
+              "RelativeToolTip": "School_Management_System\\DTO\\ReadStudentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:31:45.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReadTeacherDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\DTO\\ReadTeacherDTO.cs",
+              "RelativeDocumentMoniker": "School_Management_System\\DTO\\ReadTeacherDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\DTO\\ReadTeacherDTO.cs",
+              "RelativeToolTip": "School_Management_System\\DTO\\ReadTeacherDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T22:43:25.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "School_Management_System\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\Models\\Student.cs",
+              "RelativeToolTip": "School_Management_System\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T21:16:08.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateTeacherDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\DTO\\CreateTeacherDTO.cs",
+              "RelativeDocumentMoniker": "School_Management_System\\DTO\\CreateTeacherDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\DTO\\CreateTeacherDTO.cs",
+              "RelativeToolTip": "School_Management_System\\DTO\\CreateTeacherDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T22:25:03.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.Teachers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/School_Manage/True/SqlTable/dbo.Teachers.sql",
+              "ToolTip": "dbo.Teachers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-30T23:25:08.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dbo.StudentTeacher [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/School_Manage/True/SqlTable/dbo.StudentTeacher.sql",
+              "ToolTip": "dbo.StudentTeacher [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-30T23:25:18.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TeacherRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\Repo\\TeacherRepo.cs",
+              "RelativeDocumentMoniker": "School_Management_System\\Repo\\TeacherRepo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\Repo\\TeacherRepo.cs",
+              "RelativeToolTip": "School_Management_System\\Repo\\TeacherRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T21:56:17.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ITeacherRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\Repo\\ITeacherRepo.cs",
+              "RelativeDocumentMoniker": "School_Management_System\\Repo\\ITeacherRepo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\Repo\\ITeacherRepo.cs",
+              "RelativeToolTip": "School_Management_System\\Repo\\ITeacherRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T21:54:55.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\Repo\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "School_Management_System\\Repo\\IGenericRepo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\Repo\\IGenericRepo.cs",
+              "RelativeToolTip": "School_Management_System\\Repo\\IGenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T21:34:37.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SubjectController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\Controllers\\SubjectController.cs",
+              "RelativeDocumentMoniker": "School_Management_System\\Controllers\\SubjectController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\Controllers\\SubjectController.cs",
+              "RelativeToolTip": "School_Management_System\\Controllers\\SubjectController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T21:49:01.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "School_Management_System\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\Models\\Teacher.cs",
+              "RelativeToolTip": "School_Management_System\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T21:16:18.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateSubjectDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\DTO\\CreateSubjectDTO.cs",
+              "RelativeDocumentMoniker": "School_Management_System\\DTO\\CreateSubjectDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\DTO\\CreateSubjectDTO.cs",
+              "RelativeToolTip": "School_Management_System\\DTO\\CreateSubjectDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T21:50:11.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\Repo\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "School_Management_System\\Repo\\GenericRepo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\Repo\\GenericRepo.cs",
+              "RelativeToolTip": "School_Management_System\\Repo\\GenericRepo.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA5wCgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T21:36:46.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\appsettings.json",
+              "RelativeDocumentMoniker": "School_Management_System\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\appsettings.json",
+              "RelativeToolTip": "School_Management_System\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-30T21:31:13.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "School_Management_System\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "School_Management_System\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T21:26:51.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "School_Management_System\\Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\Models\\Subject.cs",
+              "RelativeToolTip": "School_Management_System\\Models\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T21:16:52.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\Models\\Laptop.cs",
+              "RelativeDocumentMoniker": "School_Management_System\\Models\\Laptop.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\School_Management_System\\School_Management_System\\Models\\Laptop.cs",
+              "RelativeToolTip": "School_Management_System\\Models\\Laptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T21:16:35.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
